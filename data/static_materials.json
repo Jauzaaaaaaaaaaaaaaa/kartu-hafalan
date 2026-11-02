@@ -1,0 +1,531 @@
+{
+  "azan-iqamah-doa": {
+    "intro": "Materi hafalan azan, iqamah, dan doa setelah azan. Bacaan dapat berbeda sedikit sesuai kebiasaan guru/majelis; gunakan versi ini sebagai latihan dasar.",
+    "sections": [
+      {
+        "heading": "Azan",
+        "items": [
+          {
+            "label": "Takbir pembuka",
+            "arabic": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ",
+            "latin": "Allahu akbar, Allahu akbar, Allahu akbar, Allahu akbar.",
+            "translation": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar, Allah Maha Besar."
+          },
+          {
+            "label": "Syahadat tauhid",
+            "arabic": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ",
+            "latin": "Asyhadu an laa ilaaha illallaah. (2x)",
+            "translation": "Aku bersaksi bahwa tidak ada Tuhan selain Allah."
+          },
+          {
+            "label": "Syahadat rasul",
+            "arabic": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ",
+            "latin": "Asyhadu anna Muhammadar rasuulullaah. (2x)",
+            "translation": "Aku bersaksi bahwa Nabi Muhammad adalah utusan Allah."
+          },
+          {
+            "label": "Ajakan shalat",
+            "arabic": "حَيَّ عَلَى الصَّلَاةِ",
+            "latin": "Hayya 'alash shalaah. (2x)",
+            "translation": "Mari menunaikan shalat."
+          },
+          {
+            "label": "Ajakan kemenangan",
+            "arabic": "حَيَّ عَلَى الْفَلَاحِ",
+            "latin": "Hayya 'alal falaah. (2x)",
+            "translation": "Mari menuju kemenangan/keberuntungan."
+          },
+          {
+            "label": "Takbir penutup",
+            "arabic": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ",
+            "latin": "Allahu akbar, Allahu akbar.",
+            "translation": "Allah Maha Besar, Allah Maha Besar."
+          },
+          {
+            "label": "Tahlil",
+            "arabic": "لَا إِلٰهَ إِلَّا اللهُ",
+            "latin": "Laa ilaaha illallaah.",
+            "translation": "Tidak ada Tuhan selain Allah."
+          }
+        ]
+      },
+      {
+        "heading": "Iqamah",
+        "items": [
+          {
+            "label": "Iqamah lengkap",
+            "arabic": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ\nأَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ\nأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ\nحَيَّ عَلَى الصَّلَاةِ\nحَيَّ عَلَى الْفَلَاحِ\nقَدْ قَامَتِ الصَّلَاةُ، قَدْ قَامَتِ الصَّلَاةُ\nاللهُ أَكْبَرُ، اللهُ أَكْبَرُ\nلَا إِلٰهَ إِلَّا اللهُ",
+            "latin": "Allahu akbar, Allahu akbar. Asyhadu an laa ilaaha illallaah. Asyhadu anna Muhammadar rasuulullaah. Hayya 'alash shalaah. Hayya 'alal falaah. Qad qaamatish shalaah, qad qaamatish shalaah. Allahu akbar, Allahu akbar. Laa ilaaha illallaah.",
+            "translation": "Allah Maha Besar. Aku bersaksi tidak ada Tuhan selain Allah. Aku bersaksi Nabi Muhammad utusan Allah. Mari shalat. Mari menuju kemenangan. Shalat segera didirikan. Allah Maha Besar. Tidak ada Tuhan selain Allah."
+          }
+        ]
+      },
+      {
+        "heading": "Doa Setelah Azan",
+        "items": [
+          {
+            "label": "Doa setelah azan",
+            "arabic": "اللَّهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+            "latin": "Allaahumma rabba haadzihid-da'watit-taammah, wash-shalaatil-qaa'imah, aati Muhammadanil wasiilata wal fadhiilah, wab'atshu maqaamam mahmuudanilladzii wa'adtah.",
+            "translation": "Ya Allah, Tuhan pemilik seruan yang sempurna ini dan shalat yang didirikan, berilah Nabi Muhammad wasilah dan keutamaan, serta bangkitkan beliau pada kedudukan terpuji yang Engkau janjikan."
+          }
+        ]
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Adzan, Iqomah, dan Doa",
+      "video_id": "eJ39P9T0Qrk",
+      "source": "TRIBUN LAMPUNG NEWS VIDEO",
+      "source_url": "https://www.youtube.com/watch?v=eJ39P9T0Qrk",
+      "note": "Sumber YouTube berisi lafadz adzan dan iqomah lengkap. Gunakan tombol Play/Pause/Stop dan slider waktu di bawah."
+    }
+  },
+  "shalat-wajib": {
+    "intro": "Ringkasan hafalan bacaan shalat wajib. Untuk niat, sesuaikan dengan shalat yang dikerjakan dan kebiasaan pembelajaran di kelas.",
+    "sections": [
+      {
+        "heading": "Niat Shalat Fardhu",
+        "items": [
+          {
+            "label": "Niat Subuh",
+            "arabic": "أُصَلِّي فَرْضَ الصُّبْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+            "latin": "Ushallii fardhash-shubhi rak'ataini mustaqbilal qiblati adaa'an lillaahi ta'aalaa.",
+            "translation": "Aku berniat shalat fardhu Subuh dua rakaat menghadap kiblat karena Allah Ta'ala."
+          },
+          {
+            "label": "Niat Zuhur",
+            "arabic": "أُصَلِّي فَرْضَ الظُّهْرِ أَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+            "latin": "Ushallii fardhazh-zhuhri arba'a raka'aatin mustaqbilal qiblati adaa'an lillaahi ta'aalaa.",
+            "translation": "Aku berniat shalat fardhu Zuhur empat rakaat menghadap kiblat karena Allah Ta'ala."
+          },
+          {
+            "label": "Niat Asar",
+            "arabic": "أُصَلِّي فَرْضَ الْعَصْرِ أَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+            "latin": "Ushallii fardhal-'ashri arba'a raka'aatin mustaqbilal qiblati adaa'an lillaahi ta'aalaa.",
+            "translation": "Aku berniat shalat fardhu Asar empat rakaat menghadap kiblat karena Allah Ta'ala."
+          },
+          {
+            "label": "Niat Maghrib",
+            "arabic": "أُصَلِّي فَرْضَ الْمَغْرِبِ ثَلَاثَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+            "latin": "Ushallii fardhal-maghribi tsalaatsa raka'aatin mustaqbilal qiblati adaa'an lillaahi ta'aalaa.",
+            "translation": "Aku berniat shalat fardhu Maghrib tiga rakaat menghadap kiblat karena Allah Ta'ala."
+          },
+          {
+            "label": "Niat Isya",
+            "arabic": "أُصَلِّي فَرْضَ الْعِشَاءِ أَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلّٰهِ تَعَالَى",
+            "latin": "Ushallii fardhal-'isyaa'i arba'a raka'aatin mustaqbilal qiblati adaa'an lillaahi ta'aalaa.",
+            "translation": "Aku berniat shalat fardhu Isya empat rakaat menghadap kiblat karena Allah Ta'ala."
+          }
+        ]
+      },
+      {
+        "heading": "Bacaan Pokok Dalam Shalat",
+        "items": [
+          {
+            "label": "Takbiratul ihram",
+            "arabic": "اللهُ أَكْبَرُ",
+            "latin": "Allahu akbar.",
+            "translation": "Allah Maha Besar."
+          },
+          {
+            "label": "Doa iftitah singkat",
+            "arabic": "اللهُ أَكْبَرُ كَبِيرًا، وَالْحَمْدُ لِلّٰهِ كَثِيرًا، وَسُبْحَانَ اللهِ بُكْرَةً وَأَصِيلًا",
+            "latin": "Allahu akbaru kabiiraa, walhamdu lillaahi katsiiraa, wa subhaanallaahi bukratan wa ashiilaa.",
+            "translation": "Allah Maha Besar dengan sebesar-besarnya, segala puji bagi Allah sebanyak-banyaknya, dan Mahasuci Allah pada pagi dan petang."
+          },
+          {
+            "label": "Ruku",
+            "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ",
+            "latin": "Subhaana rabbiyal 'azhiimi wa bihamdih. (3x)",
+            "translation": "Mahasuci Tuhanku Yang Maha Agung dan segala puji bagi-Nya."
+          },
+          {
+            "label": "I'tidal",
+            "arabic": "سَمِعَ اللهُ لِمَنْ حَمِدَهُ\nرَبَّنَا لَكَ الْحَمْدُ",
+            "latin": "Sami'allaahu liman hamidah. Rabbanaa lakal hamd.",
+            "translation": "Allah mendengar orang yang memuji-Nya. Ya Tuhan kami, bagi-Mu segala puji."
+          },
+          {
+            "label": "Sujud",
+            "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ",
+            "latin": "Subhaana rabbiyal a'laa wa bihamdih. (3x)",
+            "translation": "Mahasuci Tuhanku Yang Mahatinggi dan segala puji bagi-Nya."
+          },
+          {
+            "label": "Duduk di antara dua sujud",
+            "arabic": "رَبِّ اغْفِرْ لِيْ وَارْحَمْنِيْ وَاجْبُرْنِيْ وَارْفَعْنِيْ وَارْزُقْنِيْ وَاهْدِنِيْ وَعَافِنِيْ وَاعْفُ عَنِّيْ",
+            "latin": "Rabbighfirlii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fu 'annii.",
+            "translation": "Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupkanlah aku, angkatlah derajatku, berilah aku rezeki, petunjuk, kesehatan, dan maafkanlah aku."
+          },
+          {
+            "label": "Tasyahud",
+            "arabic": "التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلّٰهِ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ",
+            "latin": "At-tahiyyaatul mubaarakaatush-shalawaatuth-thayyibaatu lillaah. Assalaamu 'alaika ayyuhan-nabiyyu wa rahmatullaahi wa barakaatuh. Assalaamu 'alainaa wa 'alaa 'ibaadillaahish-shaalihiin. Asyhadu an laa ilaaha illallaah, wa asyhadu anna Muhammadar rasuulullaah.",
+            "translation": "Segala penghormatan, keberkahan, shalawat, dan kebaikan adalah milik Allah. Semoga keselamatan, rahmat, dan berkah Allah tercurah kepadamu wahai Nabi. Semoga keselamatan tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi tidak ada Tuhan selain Allah dan Nabi Muhammad adalah utusan Allah."
+          },
+          {
+            "label": "Shalawat Ibrahimiyah",
+            "arabic": "اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+            "latin": "Allaahumma shalli 'alaa Muhammad wa 'alaa aali Muhammad, kamaa shallaita 'alaa Ibraahiim wa 'alaa aali Ibraahiim. Wa baarik 'alaa Muhammad wa 'alaa aali Muhammad, kamaa baarakta 'alaa Ibraahiim wa 'alaa aali Ibraahiim fil 'aalamiina innaka hamiidum majiid.",
+            "translation": "Ya Allah, limpahkanlah shalawat dan keberkahan kepada Nabi Muhammad dan keluarga Nabi Muhammad sebagaimana Engkau limpahkan kepada Nabi Ibrahim dan keluarga Nabi Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Mahamulia."
+          },
+          {
+            "label": "Salam",
+            "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+            "latin": "Assalaamu 'alaikum wa rahmatullaah.",
+            "translation": "Semoga keselamatan dan rahmat Allah tercurah kepada kalian."
+          }
+        ]
+      }
+    ],
+    "illustrations": [
+      {
+        "src": "assets/illustrations/shalat-takbir.svg",
+        "title": "Takbiratul Ihram",
+        "caption": "Berdiri tegak, menghadap kiblat, lalu angkat kedua tangan sejajar telinga atau bahu sambil bertakbir."
+      },
+      {
+        "src": "assets/illustrations/shalat-ruku.svg",
+        "title": "Ruku",
+        "caption": "Punggung rata, kedua tangan memegang lutut, pandangan ke tempat sujud."
+      },
+      {
+        "src": "assets/illustrations/shalat-itidal.svg",
+        "title": "I'tidal",
+        "caption": "Bangun dari ruku hingga berdiri tegak kembali sebelum sujud."
+      },
+      {
+        "src": "assets/illustrations/shalat-sujud.svg",
+        "title": "Sujud",
+        "caption": "Dahi dan hidung menempel di tempat sujud, disertai kedua tangan, lutut, dan ujung kaki."
+      },
+      {
+        "src": "assets/illustrations/shalat-duduk.svg",
+        "title": "Duduk Tahiyat",
+        "caption": "Duduk dengan tenang untuk membaca tahiyat dan shalawat sebelum salam."
+      },
+      {
+        "src": "assets/illustrations/shalat-salam.svg",
+        "title": "Salam",
+        "caption": "Akhiri shalat dengan menoleh ke kanan dan ke kiri sambil mengucapkan salam."
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Panduan Sholat Lengkap",
+      "video_id": "eYQwL3rDJgk",
+      "source": "Hamdani Hambal",
+      "source_url": "https://www.youtube.com/watch?v=eYQwL3rDJgk",
+      "note": "Sumber YouTube panduan gerakan dan bacaan sholat dari takbir sampai salam."
+    }
+  },
+  "shalat-jenazah": {
+    "intro": "Materi ringkas shalat jenazah: empat takbir, berdiri, tanpa ruku dan sujud. Lafaz doa dapat menyesuaikan jenis kelamin jenazah: gunakan -hu untuk laki-laki dan -ha untuk perempuan.",
+    "sections": [
+      {
+        "heading": "Urutan Bacaan",
+        "items": [
+          {
+            "label": "Niat umum",
+            "arabic": "أُصَلِّي عَلَى هٰذَا الْمَيِّتِ أَرْبَعَ تَكْبِيرَاتٍ فَرْضَ كِفَايَةٍ لِلّٰهِ تَعَالَى",
+            "latin": "Ushallii 'alaa haadzal mayyiti arba'a takbiiraatin fardha kifaayatin lillaahi ta'aalaa.",
+            "translation": "Aku berniat shalat atas jenazah ini empat takbir sebagai fardhu kifayah karena Allah Ta'ala."
+          },
+          {
+            "label": "Takbir pertama",
+            "arabic": "اللهُ أَكْبَرُ",
+            "latin": "Allahu akbar, lalu membaca Al-Fatihah.",
+            "translation": "Allah Maha Besar, kemudian membaca Surah Al-Fatihah."
+          },
+          {
+            "label": "Takbir kedua",
+            "arabic": "اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+            "latin": "Allaahumma shalli 'alaa Muhammad wa 'alaa aali Muhammad.",
+            "translation": "Ya Allah, limpahkanlah shalawat kepada Nabi Muhammad dan keluarga Nabi Muhammad."
+          },
+          {
+            "label": "Takbir ketiga: doa untuk jenazah",
+            "arabic": "اللّٰهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ",
+            "latin": "Allaahummaghfir lahu warhamhu wa 'aafihi wa'fu 'anhu.",
+            "translation": "Ya Allah, ampunilah dia, rahmatilah dia, selamatkanlah dia, dan maafkanlah dia."
+          },
+          {
+            "label": "Takbir keempat: doa penutup",
+            "arabic": "اللّٰهُمَّ لَا تَحْرِمْنَا أَجْرَهُ وَلَا تَفْتِنَّا بَعْدَهُ وَاغْفِرْ لَنَا وَلَهُ",
+            "latin": "Allaahumma laa tahrimnaa ajrahu wa laa taftinnaa ba'dahu waghfir lanaa wa lahu.",
+            "translation": "Ya Allah, janganlah Engkau halangi kami dari pahalanya, janganlah Engkau beri fitnah kepada kami setelahnya, dan ampunilah kami serta dia."
+          },
+          {
+            "label": "Salam",
+            "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+            "latin": "Assalaamu 'alaikum wa rahmatullaah.",
+            "translation": "Semoga keselamatan dan rahmat Allah tercurah kepada kalian."
+          }
+        ]
+      }
+    ],
+    "illustrations": [
+      {
+        "src": "assets/illustrations/jenazah-niat.svg",
+        "title": "Berdiri dan Niat",
+        "caption": "Shalat jenazah dikerjakan sambil berdiri bagi yang mampu, tanpa ruku dan tanpa sujud."
+      },
+      {
+        "src": "assets/illustrations/jenazah-takbir1.svg",
+        "title": "Takbir Pertama",
+        "caption": "Setelah takbir pertama, membaca Surah Al-Fatihah."
+      },
+      {
+        "src": "assets/illustrations/jenazah-takbir2.svg",
+        "title": "Takbir Kedua dan Ketiga",
+        "caption": "Pada takbir kedua membaca shalawat, lalu pada takbir ketiga membaca doa untuk jenazah."
+      },
+      {
+        "src": "assets/illustrations/jenazah-takbir4.svg",
+        "title": "Takbir Keempat dan Salam",
+        "caption": "Setelah doa penutup pada takbir keempat, akhiri dengan salam sesuai kebiasaan setempat."
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Bacaan Shalat Jenazah",
+      "video_id": "j2Wt7tYvmtg",
+      "source": "Kajian Islami",
+      "source_url": "https://www.youtube.com/watch?v=j2Wt7tYvmtg",
+      "note": "Sumber YouTube bacaan shalat jenazah lengkap dengan tata cara."
+    }
+  },
+  "doa-harian": {
+    "intro": "Doa harian sekarang sudah dipisah menjadi 5 halaman doa. Silakan kembali ke beranda dan pilih doa satu per satu.",
+    "sections": [
+      {
+        "heading": "Daftar Doa Harian",
+        "bullets": [
+          "Doa Setelah Adzan",
+          "Doa Setelah Wudhu",
+          "Doa Kedua Orang Tua yang Masih Hidup",
+          "Doa Mohon Keturunan yang Saleh",
+          "Doa Sapu Jagat / Kebaikan Dunia dan Akhirat"
+        ]
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Doa Harian",
+      "video_id": "1JCutwrokz4",
+      "source": "An Nafi",
+      "source_url": "https://www.youtube.com/watch?v=1JCutwrokz4",
+      "note": "Bagian ini hanya materi gabungan lama; daftar doa utama sudah dipisah per halaman."
+    }
+  },
+  "bacaan-al-quran": {
+    "intro": "Latihan membaca Al-Qur'an: fokus pada adab, makhraj, tajwid dasar, kelancaran, dan tartil.",
+    "sections": [
+      {
+        "heading": "Bacaan Pembuka",
+        "items": [
+          {
+            "label": "Ta'awwudz",
+            "arabic": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+            "latin": "A'uudzu billaahi minasy-syaithaanir-rajiim.",
+            "translation": "Aku berlindung kepada Allah dari godaan setan yang terkutuk."
+          },
+          {
+            "label": "Basmalah",
+            "arabic": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+            "latin": "Bismillaahir-rahmaanir-rahiim.",
+            "translation": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+          }
+        ]
+      },
+      {
+        "heading": "Checklist Latihan",
+        "bullets": [
+          "Mulai dengan niat ikhlas, berwudhu, dan menjaga adab terhadap mushaf.",
+          "Baca perlahan, tidak tergesa-gesa, dan perhatikan panjang pendek bacaan.",
+          "Latih makhraj huruf: tenggorokan, lisan, bibir, dan rongga mulut.",
+          "Ulangi ayat yang belum lancar minimal tiga kali sebelum pindah ayat.",
+          "Gunakan halaman detail surat di website ini untuk melihat Arab, latin, terjemahan, dan audio."
+        ]
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Hafalan Surat Pendek Al-Quran",
+      "video_id": "fv34aC1zt1w",
+      "source": "Pelita Al Quran Hadits",
+      "source_url": "https://www.youtube.com/watch?v=fv34aC1zt1w",
+      "note": "Sumber YouTube untuk latihan mendengar bacaan surat pendek Al-Quran."
+    }
+  },
+  "menulis-surat-pendek": {
+    "intro": "Latihan menulis surat pendek dilakukan dengan menyalin ayat Arab, menulis latin bila diperlukan, dan menuliskan terjemahan Indonesia sebagai pemahaman.",
+    "sections": [
+      {
+        "heading": "Format Tugas Menulis",
+        "bullets": [
+          "Pilih satu surat pendek dari daftar latihan di beranda.",
+          "Buka detail surat, lalu salin ayat Arab dengan rapi dari kanan ke kiri.",
+          "Tulis nomor ayat, latin, dan terjemahan Indonesia di bawahnya.",
+          "Periksa kembali titik huruf, harakat, panjang pendek, dan kerapian tulisan.",
+          "Setor hasil tulisan kepada guru/penguji bersama hafalan."
+        ]
+      },
+      {
+        "heading": "Rekomendasi Surat Pendek",
+        "items": [
+          {
+            "label": "Mulai mudah",
+            "arabic": "الإخلاص، الفلق، الناس",
+            "latin": "Al-Ikhlas, Al-Falaq, An-Nas.",
+            "translation": "Tiga surat pendek yang cocok untuk latihan awal."
+          },
+          {
+            "label": "Naik tingkat",
+            "arabic": "الكوثر، العصر، النصر، الكافرون",
+            "latin": "Al-Kautsar, Al-'Asr, An-Nashr, Al-Kafirun.",
+            "translation": "Surat pendek untuk melatih kelancaran dan ketelitian huruf."
+          }
+        ]
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Contoh Surat Pendek untuk Disalin",
+      "video_id": "fv34aC1zt1w",
+      "source": "Pelita Al Quran Hadits",
+      "source_url": "https://www.youtube.com/watch?v=fv34aC1zt1w",
+      "note": "Sumber YouTube ini membantu mendengar contoh surat pendek sebelum menulis ulang ayat Arab."
+    }
+  },
+  "latihan-tambahan": {
+    "intro": "Baris ke-38 pada kartu penilaian masih kosong. Bagian ini disediakan untuk materi tambahan dari guru/penguji.",
+    "sections": [
+      {
+        "heading": "Ruang Materi Tambahan",
+        "bullets": [
+          "Isi dengan materi yang ditentukan guru, misalnya surat pilihan, doa tambahan, atau praktik membaca.",
+          "Anda dapat mengedit file data/exercises.json dan data/static_materials.json untuk mengganti bagian ini.",
+          "Gunakan halaman kartu penilaian untuk memberi nilai pada materi tambahan."
+        ]
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Contoh Latihan Bacaan Tambahan",
+      "video_id": "fv34aC1zt1w",
+      "source": "Pelita Al Quran Hadits",
+      "source_url": "https://www.youtube.com/watch?v=fv34aC1zt1w",
+      "note": "Sumber YouTube cadangan untuk latihan bacaan tambahan."
+    }
+  },
+  "doa-setelah-adzan": {
+    "intro": "Materi Doa Hafalan Harian Mahasiswa UDB 2026. Doa ini dipisah menjadi halaman sendiri agar audio dan latihan lebih fokus.",
+    "sections": [
+      {
+        "heading": "1. Doa Setelah Adzan",
+        "items": [
+          {
+            "label": "Doa Setelah Adzan",
+            "arabic": "اَللّٰهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ التَّآمَّةِ، وَالصَّلاَةِ الْقَآئِمَةِ، آتِ مُحَمَّدَانِ الْوَسِيْلَةَ وَالْفَضِيْلَةَ وَالشَّرَفَ وَالدَّرَجَةَ الْعَالِيَةَ الرَّفِيْعَةَ وَابْعَثْهُ مَقَامًامَحْمُوْدَانِ الَّذِىْ وَعَدْتَهُ اِنَّكَ لاَتُخْلِفُ الْمِيْعَادَ يَآاَرْحَمَ الرَّحِمِيْنَ",
+            "latin": "",
+            "translation": "Ya Allah, Tuhan yang mempunyai seruan yang sempurna, dan sholat yang tetap didirikan, karuniailah nabi Muhammad tempat yang luhur, kelebihan, kemuliaan, dan derajat yang tinggi. tempatkanlah dia pada kedudukan yang terpuji seperti yang telah Engkau janjikan. Sesungguhnya Engkau tiada menyalahi janji. wahai dzat yang Maha Penyayang"
+          }
+        ]
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Doa Setelah Adzan",
+      "video_id": "1JCutwrokz4",
+      "source": "An Nafi",
+      "source_url": "https://www.youtube.com/watch?v=1JCutwrokz4",
+      "note": "Sumber YouTube bacaan doa setelah adzan dengan teks Arab, latin, dan terjemahan."
+    }
+  },
+  "doa-setelah-wudhu": {
+    "intro": "Materi Doa Hafalan Harian Mahasiswa UDB 2026. Doa ini dipisah menjadi halaman sendiri agar audio dan latihan lebih fokus.",
+    "sections": [
+      {
+        "heading": "2. Doa Setelah Wudhu",
+        "items": [
+          {
+            "label": "Doa Setelah Wudhu",
+            "arabic": "اَشْهَدُ اَنْ لاَّاِلَهَ اِلاَّاللهُ وَحْدَهُ لاَشَرِيْكَ لَهُ, وَاَشْهَدُ اَنَّ مُحَمَّدًاعَبْدُهُ وَرَسُوْلُهُ. اَللّٰهُمَّ اجْعَلْنِىْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِىْ مِنَ الْمُتَطَهِّرِيْنَ، وَجْعَلْنِيْ مِنْ عِبَادِكَ الصَّالِحِيْنَ",
+            "latin": "",
+            "translation": "Aku bersaksi, tidak ada Tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya, dan aku mengaku bahwa Nabi Muhammad itu adalah hamba dan Utusan Allah. Ya Allah, jadikanlah aku dari golongan orang-orang yang bertaubat dan jadikanlah aku dari golongan orang-orang yang suci dan jadikanlah aku dari golongan hamba-hamba Mu yang shaleh"
+          }
+        ]
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Doa Setelah Wudhu",
+      "video_id": "vAHqR0yd37o",
+      "source": "mediumislam",
+      "source_url": "https://www.youtube.com/watch?v=vAHqR0yd37o",
+      "note": "Sumber YouTube doa sebelum dan sesudah wudhu; halaman ini tetap menampilkan teks doa setelah wudhu sesuai materi."
+    }
+  },
+  "doa-kedua-orang-tua": {
+    "intro": "Materi Doa Hafalan Harian Mahasiswa UDB 2026. Doa ini dipisah menjadi halaman sendiri agar audio dan latihan lebih fokus.",
+    "sections": [
+      {
+        "heading": "3. Doa Kedua Orang Tua yang Masih Hidup",
+        "items": [
+          {
+            "label": "Doa Kedua Orang Tua yang Masih Hidup",
+            "arabic": "اَللّهُمَّ اغْفِرْلِيْ وَلِوَالِدَيَّ وَارْحَمْهُمَاكَمَارَبَّيَانِيْ صَغِيْرَا",
+            "latin": "",
+            "translation": "Wahai Tuhanku. ampunilah aku dan kedua orang tuaku (ibu dan Bapakku), sayangilah mereka seperti mereka menyayangiku waktu aku kecil."
+          }
+        ]
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Doa Kedua Orang Tua",
+      "video_id": "JbfOjrGaQz0",
+      "source": "Abdul-Basit Abdus-Samad - Topic",
+      "source_url": "https://www.youtube.com/watch?v=JbfOjrGaQz0",
+      "note": "Sumber YouTube berisi bacaan Arab رب اغفر لي ولوالدي."
+    }
+  },
+  "doa-keturunan-saleh": {
+    "intro": "Materi Doa Hafalan Harian Mahasiswa UDB 2026. Doa ini dipisah menjadi halaman sendiri agar audio dan latihan lebih fokus.",
+    "sections": [
+      {
+        "heading": "4. Doa Mohon Keturunan yang Saleh, Sebagai Penenang Hati dan Ketakwaan",
+        "items": [
+          {
+            "label": "Doa Mohon Keturunan yang Saleh, Sebagai Penenang Hati dan Ketakwaan",
+            "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+            "latin": "",
+            "translation": "Ya tuhan kami, anugerahkanlah kepada kami istri-istri kami dari keturunan kami sebagai penenang hati (kami) dan jadikanlah kami imam bagi orang-orang yang bertakwa."
+          }
+        ]
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Doa Mohon Keturunan Saleh",
+      "video_id": "c02nlFPkxRI",
+      "source": "Dua Portal",
+      "source_url": "https://www.youtube.com/watch?v=c02nlFPkxRI",
+      "note": "Sumber YouTube berisi bacaan Rabbana hab lana min azwajina wa dzurriyyatina."
+    }
+  },
+  "doa-sapu-jagat": {
+    "intro": "Materi Doa Hafalan Harian Mahasiswa UDB 2026. Doa ini dipisah menjadi halaman sendiri agar audio dan latihan lebih fokus.",
+    "sections": [
+      {
+        "heading": "5. Doa Sapu Jagat / Kebaikan Dunia dan Akhirat",
+        "items": [
+          {
+            "label": "Doa Sapu Jagat / Kebaikan Dunia dan Akhirat",
+            "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّار",
+            "latin": "",
+            "translation": "Tuhan kami, berikan kami kebaikan di dunia dan kebaikan di akhirat, Lindungilah kami dari siksa neraka."
+          }
+        ]
+      }
+    ],
+    "youtube_audio": {
+      "label": "Audio YouTube: Doa Sapu Jagat",
+      "video_id": "qpswcVN1XFA",
+      "source": "My Spiritual Peace",
+      "source_url": "https://www.youtube.com/watch?v=qpswcVN1XFA",
+      "note": "Sumber YouTube berisi bacaan Rabbana atina fid dunya hasanah."
+    }
+  }
+}
