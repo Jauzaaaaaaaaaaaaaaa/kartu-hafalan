@@ -1,10 +1,10 @@
-/* HAFALAN ISLAM: geometri Islam, zamrud dan emas, naskah dan lengkung mihrab. */
+/* HAFALAN ISLAM: geometri Islam dan lengkung mihrab. Palet hijau tua #0F3D3A, bordo #6C151E, krem #F5DABF. */
 :root {
-  --bg: #f6f1e3; --surface: #fffcf3; --ink: #10261f; --muted: #55685f; --line: #e0d7bd; --brand: #0d5a45; --brand-dark: #0a3f31; --accent: #ece5cf; --danger: #8a4b00;
-  --shadow: 0 24px 50px -30px rgba(10, 63, 49, .45);
-  --gold: #b48c3a;
-  --at-accent: #0a3f31; --at-on-accent: #e6c877; --at-deep: #072c22; --at-mono: "Mulish", sans-serif;
-  --girih: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='88' height='88' viewBox='0 0 88 88'%3E%3Cg fill='none' stroke='%23b48c3a' stroke-opacity='.2'%3E%3Cpath d='M44 14l9 21 21 9-21 9-9 21-9-21-21-9 21-9z'/%3E%3Cpath d='M23 23h42v42H23z'/%3E%3Cpath d='M44 0v14M44 74v14M0 44h14M74 44h14'/%3E%3C/g%3E%3C/svg%3E");
+  --bg: #f8eee0; --surface: #fffaf2; --ink: #142322; --muted: #5d6662; --line: #e6d3bb; --brand: #0f3d3a; --brand-dark: #0a2b29; --accent: #f5dabf; --danger: #6c151e;
+  --shadow: none;
+  --gold: #6c151e;
+  --at-accent: #0f3d3a; --at-on-accent: #f5dabf; --at-deep: #6c151e; --at-mono: "Mulish", sans-serif;
+  --girih: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='88' height='88' viewBox='0 0 88 88'%3E%3Cg fill='none' stroke='%236c151e' stroke-opacity='.1'%3E%3Cpath d='M44 14l9 21 21 9-21 9-9 21-9-21-21-9 21-9z'/%3E%3Cpath d='M23 23h42v42H23z'/%3E%3Cpath d='M44 0v14M44 74v14M0 44h14M74 44h14'/%3E%3C/g%3E%3C/svg%3E");
 }
 html { background: var(--bg); }
 body, body.at { font-family: "Mulish", system-ui, sans-serif !important; background: var(--bg) var(--girih) !important; color: var(--ink); }
@@ -14,8 +14,8 @@ h1 { font-size: clamp(2.6rem, 6.4vw, 5.4rem); line-height: 1.05; }
 
 /* Layar pembuka: bintang delapan terbuka */
 .at-curtain__a, .at-curtain__b { border-radius: 0; inset: 0; }
-.at-curtain__b { background-image: var(--girih); background-color: #0a3f31; }
-.hf-star { width: min(60vw, 280px); color: #e6c877; overflow: visible; }
+.at-curtain__b { background-image: var(--girih); background-color: #0f3d3a; }
+.hf-star { width: min(60vw, 280px); color: #f5dabf; overflow: visible; }
 .hf-star rect { fill: none; stroke: currentColor; stroke-width: 1.3; transform-box: fill-box; transform-origin: center; stroke-dasharray: 1; stroke-dashoffset: 1; animation: hf-draw 1.1s var(--at-ease) forwards; }
 .hf-star rect:nth-child(2) { animation: hf-draw 1.1s var(--at-ease) .15s forwards, hf-turn 1.3s var(--at-ease) .15s both; }
 .hf-star circle { fill: none; stroke: currentColor; stroke-width: .7; opacity: .6; stroke-dasharray: 1; stroke-dashoffset: 1; animation: hf-draw 1.3s var(--at-ease) .3s forwards; }
@@ -23,21 +23,21 @@ h1 { font-size: clamp(2.6rem, 6.4vw, 5.4rem); line-height: 1.05; }
 @keyframes hf-draw { to { stroke-dashoffset: 0; } }
 @keyframes hf-turn { from { transform: rotate(0); } to { transform: rotate(45deg); } }
 @keyframes hf-fade { to { opacity: 1; } }
-.at-curtain__cap { color: #e6c877; }
+.at-curtain__cap { color: #f5dabf; }
 
 /* Kepala halaman */
-.site-header { background: rgba(10, 63, 49, .96); border-bottom: 1px solid var(--gold); }
-.brand { color: #f6f1e3; font-family: "Amiri", serif; font-size: 1.5rem; font-weight: 700; }
-.nav a { color: #d8ccab; }
+.site-header { background: #0f3d3a; border-bottom: 1px solid var(--gold); }
+.brand { color: #f8eee0; font-family: "Amiri", serif; font-size: 1.5rem; font-weight: 700; }
+.nav a { color: #e3cdb5; }
 .nav a:hover { color: #fff; }
 
 /* Hero sebagai panel gelap dengan lengkung mihrab */
-.hero { position: relative; grid-template-columns: 1fr minmax(220px, 320px); padding: clamp(28px, 5vw, 64px); border-radius: 0; background: #0a3f31 var(--girih); color: #f6f1e3; box-shadow: none; border: 1px solid var(--gold); outline: 1px solid var(--gold); outline-offset: -9px; }
-.hero h1 { color: #f6f1e3; }
-.hero p { color: #d8ccab; }
-.hero .eyebrow { color: #e6c877; }
+.hero { position: relative; grid-template-columns: 1fr minmax(220px, 320px); padding: clamp(28px, 5vw, 64px); border-radius: 0; background: #0f3d3a var(--girih); color: #f8eee0; box-shadow: none; border: 1px solid var(--gold); outline: 1px solid var(--gold); outline-offset: -9px; }
+.hero h1 { color: #f8eee0; }
+.hero p { color: #e3cdb5; }
+.hero .eyebrow { color: #f5dabf; }
 .detail-hero { background: var(--surface); border-radius: 0; box-shadow: none; border-top: 3px double var(--gold); border-bottom: 3px double var(--gold); }
-.hero-card { align-items: center; text-align: center; color: #10261f; border: 1px solid var(--gold); border-radius: 999px 999px 0 0; background: #f6f1e3; box-shadow: none; padding-top: 58px; }
+.hero-card { align-items: center; text-align: center; color: #142322; border: 1px solid var(--gold); border-radius: 999px 999px 0 0; background: #f8eee0; box-shadow: none; padding-top: 58px; }
 .big-number { font-family: "Amiri", serif; font-weight: 700; color: var(--brand); font-size: clamp(4rem, 8vw, 6.4rem); }
 
 /* Kartu dengan puncak lengkung */
@@ -50,11 +50,11 @@ h1 { font-size: clamp(2.6rem, 6.4vw, 5.4rem); line-height: 1.05; }
 .badge { background: transparent; border: 1px solid var(--gold); color: var(--brand-dark); }
 .btn, .mini-btn { border-radius: 0; }
 .btn.primary, .mini-btn.primary { background: var(--brand); border-color: var(--brand); }
-.hero .btn:not(.primary) { background: transparent; color: #f6f1e3; border-color: #e6c877; }
-.hero .btn.primary { background: #e6c877; border-color: #e6c877; color: #0a3f31; }
+.hero .btn:not(.primary) { background: transparent; color: #f8eee0; border-color: #f5dabf; }
+.hero .btn.primary { background: #f5dabf; border-color: #f5dabf; color: #0f3d3a; }
 input, select, textarea { border-radius: 0; background: var(--surface); }
 .checklist li { border-radius: 0; border-left: 3px solid var(--gold); }
-.site-footer { background: #0a3f31; color: #d8ccab; border-top: 1px solid var(--gold); }
+.site-footer { background: #0f3d3a; color: #e3cdb5; border-top: 1px solid var(--gold); }
 .score-table th { background: var(--accent); }
 .score-table th, .score-table td { border-color: var(--line); }
 @media (max-width: 860px) { .hero { grid-template-columns: 1fr; } }
